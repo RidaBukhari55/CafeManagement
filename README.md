@@ -43,9 +43,9 @@ The goal of this project is to develop a mobile-based Café Management System th
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
-### ⚙️ Prerequisites
+###  Prerequisites
 
 - Node.js installed
 - Expo CLI installed globally:
