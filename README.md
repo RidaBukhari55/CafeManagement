@@ -54,7 +54,7 @@ The goal of this project is to develop a mobile-based Café Management System th
 
 ## Steps
 1.Clone the repository:
-git clone https://github.com/your-username/cafe-management-mobile.git
+git clone https://github.com/RidaBukhari55/CafeManagement
 2.Navigate to the project folder:
 cd cafe-management-mobile
 3.Install dependencies:
